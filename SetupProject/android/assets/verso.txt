@@ -1,0 +1,12 @@
+animation_card.png
+size: 286, 152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+verso
+  rotate: false
+  xy: 2, 58
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: 0

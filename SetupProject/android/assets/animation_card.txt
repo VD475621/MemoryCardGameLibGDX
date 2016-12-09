@@ -1,0 +1,68 @@
+animation_card.png
+size: 286, 152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rotating
+  rotate: false
+  xy: 2, 58
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: 0
+rotating
+  rotate: false
+  xy: 31, 58
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: 1
+rotating
+  rotate: false
+  xy: 64, 58
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: 2
+rotating
+  rotate: false
+  xy: 97, 58
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: 3
+rotating
+  rotate: false
+  xy: 130, 58
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: 4
+rotating
+  rotate: false
+  xy: 163, 58
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: 5
+rotating
+  rotate: false
+  xy: 196, 58
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: 6
+rotating
+  rotate: false
+  xy: 229, 58
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: 7
+rotating
+  rotate: false
+  xy: 262, 58
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: 8
